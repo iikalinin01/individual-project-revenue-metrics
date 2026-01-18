@@ -65,7 +65,7 @@ Filters:
 - user age
 
 🔗 Dashboard link:  
-_add after publication_
+(https://public.tableau.com/views/individualprojectv2/Revenuemetrics?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
